@@ -59,10 +59,6 @@ window.onload = function() {
 
 
 
-
-
-
-
   loadFileInto("ingredients.html", "#Ingredients ul");
   loadFileInto("equipment.html", "#Equipment ul");
   loadFileInto("directions.html", "#Directions ol");
